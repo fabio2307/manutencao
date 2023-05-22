@@ -119,7 +119,7 @@ public class TelaPrevEncerradas extends javax.swing.JInternalFrame {
 
             if (t.equals("Encerrada")) {
                 prev = "Encerrada";
-                ImageIcon ico = new ImageIcon("C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\NetBeansProjects\\prjManutencao1\\src\\com\\prjmanutencao\\telas\\imagens_fundo\\encerradas_1.png");
+                ImageIcon ico = new ImageIcon("C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\prjManutencao1\\src\\com\\prjmanutencao\\telas\\imagens_fundo\\encerradas_1.png");
                 lblPreEnc.setIcon(ico);
                 selec_encerrad();
                 pesq_Bot();
@@ -132,7 +132,7 @@ public class TelaPrevEncerradas extends javax.swing.JInternalFrame {
             }
             if (t.equals("Irregular")) {
                 prev = "Irregular";
-                ImageIcon ico = new ImageIcon("C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\NetBeansProjects\\prjManutencao1\\src\\com\\prjmanutencao\\telas\\imagens_fundo\\irregular_1.png");
+                ImageIcon ico = new ImageIcon("C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\prjManutencao1\\src\\com\\prjmanutencao\\telas\\imagens_fundo\\irregular_1.png");
                 lblPreEnc.setIcon(ico);
                 selec_encerrad();
                 pesq_Bot();
